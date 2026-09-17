@@ -1,4 +1,4 @@
-state = {
+﻿state = {
 	id = 751
 	name = "STATE_751"
 	
@@ -22,14 +22,7 @@ state = {
 			10841 3 # Ya'An 
 		}
 
-		1936.1.1 = {
-			IF = {
-				limit = {
-					has_dlc = "No Compromise, No Surrender"
-				}
-				transfer_state_to = SIC
-			}
-		}
+		
 
 		1938.10.25 = {
 		IF = {

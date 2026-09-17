@@ -12,7 +12,6 @@ state = {
 	history = {
 		owner = UNC
 		add_core_of = UNC
-		#add_core_of = OMA
 
 		buildings = {
 			infrastructure = 1

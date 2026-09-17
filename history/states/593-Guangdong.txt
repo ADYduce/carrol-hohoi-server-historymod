@@ -1,4 +1,4 @@
-state = {
+﻿state = {
 	id = 593
 	name = "STATE_593"
 
@@ -15,14 +15,7 @@ state = {
 		owner = UNC
 		add_core_of = UNC
 
-		1936.1.1 = {
-			IF = {
-				limit = {
-					has_dlc = "No Compromise, No Surrender"
-				}
-				transfer_state_to = GDC
-			}
-		}
+		
 
 		victory_points = { 
 			9938 1 # Shantou

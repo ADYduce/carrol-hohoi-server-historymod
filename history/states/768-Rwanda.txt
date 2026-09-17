@@ -13,16 +13,6 @@ state = {
 		owner = UGH
 		add_core_of = UGH
 
-		IF = {
-			limit = {
-				has_dlc = "Gotterdammerung"
-			}
-			transfer_state_to = COG
-			add_dynamic_modifier = {
-				modifier = COG_rwandan_separatism_modifier
-			}	
-		}
-
 		victory_points = {
 			9962 1
 		}

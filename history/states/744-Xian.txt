@@ -1,4 +1,4 @@
-state = {
+﻿state = {
 	id = 744
 	name = "STATE_744"
 	manpower = 9000000
@@ -12,14 +12,7 @@ state = {
 	history = {
 		owner = UNC
 		add_core_of = UNC
-		1936.1.1 = {
-			IF = {
-				limit = {
-					has_dlc = "No Compromise, No Surrender"
-				}
-				transfer_state_to = XIC
-			}
-		}
+		
 
 		1938.10.25 = {
 		IF = {
