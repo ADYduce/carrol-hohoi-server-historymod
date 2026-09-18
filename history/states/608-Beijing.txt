@@ -1,4 +1,4 @@
-﻿
+
 state={
 	id=608
 	name="STATE_608"
@@ -10,7 +10,14 @@ state={
 		owner = UNC
 		add_core_of = UNC
 
-		
+		1936.1.1 = {
+			IF = {
+				limit = {
+					has_dlc = "No Compromise, No Surrender"
+				}
+				transfer_state_to = HBC
+			}
+		}
 
 		buildings = {
 			infrastructure = 3 #was: 5

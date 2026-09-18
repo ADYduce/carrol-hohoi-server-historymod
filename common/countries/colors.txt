@@ -1,0 +1,14 @@
+KRK = { color = rgb { 120 80 60 } color_ui = rgb { 120 80 60 } }
+SPS = { color = rgb { 60 100 190 } color_ui = rgb { 60 100 190 } }
+RBP = { color = rgb { 150 40 40 } color_ui = rgb { 150 40 40 } }
+HIO = { color = rgb { 100 70 160 } color_ui = rgb { 100 70 160 } }
+WDG = { color = rgb { 30 130 90 } color_ui = rgb { 30 130 90 } }
+HOI = { color = rgb { 220 170 40 } color_ui = rgb { 220 170 40 } }
+MOD = { color = rgb { 100 100 100 } color_ui = rgb { 100 100 100 } }
+MTB = { color = rgb { 80 40 120 } color_ui = rgb { 80 40 120 } }
+JPK = { color = rgb { 70 70 160 } color_ui = rgb { 70 70 160 } }
+KGP = { color = rgb { 150 30 80 } color_ui = rgb { 150 30 80 } }
+JMR = { color = rgb { 190 70 130 } color_ui = rgb { 190 70 130 } }
+KBS = { color = rgb { 70 150 190 } color_ui = rgb { 70 150 190 } }
+UNC = { color = rgb { 110 110 110 } color_ui = rgb { 110 110 110 } }
+UGH = { color = rgb { 150 110 50 } color_ui = rgb { 150 110 50 } }

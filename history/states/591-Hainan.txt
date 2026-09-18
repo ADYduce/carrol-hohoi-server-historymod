@@ -1,4 +1,4 @@
-﻿state={
+state={
 	id=591
 	name="STATE_591"
 	manpower = 3480000 #was 4350000
@@ -7,7 +7,14 @@
 	history={
 		owner = UNC
 		add_core_of = UNC
-			
+		1936.1.1 = {
+			IF = {
+				limit = {
+					 has_dlc = "No Compromise, No Surrender" 
+				}
+				transfer_state_to = GDC
+			}
+		}	
 		
 		victory_points = {
 			1070 2 # Haikou

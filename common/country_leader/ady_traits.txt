@@ -1,0 +1,21 @@
+leader_traits={
+ ady_bartist={ random=no stability_factor = -0.30 }
+ ady_disillusioned_discord={ random=no political_power_gain = -0.15 }
+ ady_karol_leader={ random=no consumer_goods_factor = -0.10
+		stability_factor = 0.10 }
+ ady_incompetent={ random=no political_power_gain = -0.15 }
+ ady_pacifist={ random=no war_support_factor = -0.30 }
+ ady_no_legitimacy={ random=no stability_factor = -0.50 }
+ ady_weak_control={ random=no compliance_gain = -0.25
+		resistance_growth = 0.25 }
+ ady_karol_connection={ random=no political_advisor_cost_factor = -0.33
+		army_leader_cost_factor = -0.33
+		high_command_cost_factor = -0.33 }
+ ady_famous_modder={ random=no research_speed_factor = 0.50 }
+ ady_troll={ random=no stability_factor = -0.50
+		war_support_factor = 0.50 }
+ ady_chaotic_world={ random=no political_power_gain = -1.00 }
+ ady_ugauga={ random=no consumer_goods_factor = 1.00
+		industrial_capacity_factory = -1.00
+		recruitable_population_factor = -1.00 }
+}

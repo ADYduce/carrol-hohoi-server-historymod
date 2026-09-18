@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 
 	id = 597
 	name = "STATE_597"
@@ -13,7 +13,14 @@
 		owner = UNC
 		add_core_of = UNC
 
-		
+		1936.1.1 = {
+			IF = {
+				limit = {
+					has_dlc = "No Compromise, No Surrender"
+				}
+				transfer_state_to = SND
+			}
+		}
 
 		victory_points = {
 			1104 2 # Yantai

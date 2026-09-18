@@ -1,0 +1,1 @@
+ideas={ country={ UNC_world_end={ picture=generic_war_economy allowed={ always=yes } allowed_civil_war={always=yes} removal_cost=-1 modifier={ consumer_goods_factor=1.0 industrial_capacity_factory=-1.0 recruitable_population_factor=-1.0 } } } }

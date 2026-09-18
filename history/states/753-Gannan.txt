@@ -1,4 +1,4 @@
-﻿state = {
+state = {
 	id = 753
 	name = "STATE_753"
 	
@@ -18,7 +18,14 @@
 			infrastructure = 2
 		}
 
-		
+		1936.1.1 = {
+			IF = {
+				limit = {
+					has_dlc = "No Compromise, No Surrender"
+				}
+				transfer_state_to = SIC
+			}
+		}
 
 		1938.10.25 = {
 		IF = {

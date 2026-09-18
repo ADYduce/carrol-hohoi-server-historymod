@@ -1,0 +1,72 @@
+characters={
+ KRK_leader={
+  name="김카롤"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={ ady_bartist ady_disillusioned_discord ady_karol_leader } expire="1950.1.1.1" id=-1 }
+ }
+ SPS_leader={
+  name="심플 패튼"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={  } expire="1950.1.1.1" id=-1 }
+ }
+ RBP_leader={
+  name="붉은새"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={  } expire="1950.1.1.1" id=-1 }
+ }
+ HIO_leader={
+  name="손목"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={  } expire="1950.1.1.1" id=-1 }
+ }
+ WDG_leader={
+  name="위드고"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={  } expire="1950.1.1.1" id=-1 }
+ }
+ HOI_leader={
+  name="ADY"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={ ady_incompetent ady_pacifist ady_no_legitimacy ady_weak_control ady_karol_connection } expire="1950.1.1.1" id=-1 }
+ }
+ MOD_leader={
+  name="SUNCIP"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={ ady_famous_modder } expire="1950.1.1.1" id=-1 }
+ }
+ MTB_leader={
+  name="멀티 폐인"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={ ady_troll } expire="1950.1.1.1" id=-1 }
+ }
+ JPK_leader={
+  name="JP 카이저가이"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={  } expire="1950.1.1.1" id=-1 }
+ }
+ KGP_leader={
+  name="케가"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={  } expire="1950.1.1.1" id=-1 }
+ }
+ JMR_leader={
+  name="장미르"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={  } expire="1950.1.1.1" id=-1 }
+ }
+ KBS_leader={
+  name="하레"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={  } expire="1950.1.1.1" id=-1 }
+ }
+ UNC_leader={
+  name="국제연합"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={ ady_chaotic_world } expire="1950.1.1.1" id=-1 }
+ }
+ UGH_leader={
+  name="우가우가 원시인"
+  portraits={ civilian={ large="GFX_portrait_generic_europe_male_04" } }
+  country_leader={ ideology=despotism traits={ ady_ugauga } expire="1950.1.1.1" id=-1 }
+ }
+}
