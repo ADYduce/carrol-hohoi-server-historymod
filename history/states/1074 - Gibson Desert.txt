@@ -9,6 +9,7 @@ state = {
 	force_link_ownership_to = 870 # Northwest Australia 
 
 	history = {
+
 		owner = UNC
 		add_core_of = UNC
 

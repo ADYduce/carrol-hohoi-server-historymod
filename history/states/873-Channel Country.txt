@@ -5,11 +5,11 @@ state={
 		2116 2221 5198 10941 12949 
 	}
 	history = {
-		owner = UNC
-		add_core_of = UNC
 		buildings = {
 			infrastructure = 1
 		}
+		owner = UNC
+		add_core_of = UNC
 	}
 	state_category = pastoral
 	manpower=60000 #PreTAOG 10000
